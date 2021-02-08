@@ -1,9 +1,14 @@
 <h1 align="center">Olá 👋, Eu sou o Thadeu Castelo Branco Ramos</h1>
-<h3 align="center">Olá, eu sou o Thadeu Castelo Branco, estudante de desenvolvimento web pela Trybe. Atualmente moro em Presidente Venceslau.</h3>
+
+Muito prazer, eu sou o Thadeu Castelo Branco. 
+
+Estou estudando para me tornar Desenvolvedor Web, estudo na [Trybe](https://www.betrybe.com/). 
+
+Desde cedo eu sempre fui apaixonado por tecnologia, eu aos 13 anos comecei a montar computadores e aos 15 já estava fazendo overclocks, recentemente descobri uma nova paixão que é programar, a sensação de conseguir materializar algo que estava apenas na imaginação e fazer funcionar é realmente incrível!
 
 - 🔭 Atualmente estou trabalhado em [App de receitas](https://github.com/tryber/sd-07-project-recipes-app/pull/379)
 
-- 🌱 Atualmente estou estudando **SQL**
+- 🌱 Estou estudando **SQL**
 
 - 📫 Como me contatar **thadeucb@hotmail.com**
 

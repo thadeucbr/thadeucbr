@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, Eu sou o Thadeu Castelo Branco Ramos</h1>
+<h3 align="center">Olá, eu sou o Thadeu Castelo Branco, estudante de desenvolvimento web pela Trybe. Atualmente moro em Presidente Venceslau.</h3>
 
-<!--
-**thadeucbr/thadeucbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhado em [App de receitas](https://github.com/tryber/sd-07-project-recipes-app/pull/379)
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando **SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como me contatar **thadeucb@hotmail.com**
+
+<h3 align="left">Minhas redes:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thadeucbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thadeucbr" height="30" width="40" /></a>
+<a href="https://instagram.com/thadeucbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thadeucbr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thadeucbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="thadeucbr" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thadeucbr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thadeucbr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thadeucbr&show_icons=true&theme=dracula&locale=en" alt="thadeucbr" /></p>

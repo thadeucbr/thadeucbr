@@ -4,7 +4,7 @@ Muito prazer, eu sou o Thadeu Castelo Branco.
 
 Estou estudando para me tornar Desenvolvedor Web, estudo na [Trybe](https://www.betrybe.com/). 
 
-Desde cedo eu sempre fui apaixonado por tecnologia, eu aos 13 anos comecei a montar computadores e aos 15 já estava fazendo overclocks, recentemente descobri uma nova paixão que é programar, a sensação de conseguir materializar algo que estava apenas na imaginação e fazer funcionar é realmente incrível!
+Desde cedo, eu sempre fui apaixonado por tecnologia. Aos 13 anos comecei a montar computadores e aos 15 já estava fazendo overclocks. Recentemente, descobri uma nova paixão que é programar. A sensação de conseguir materializar algo que estava apenas na imaginação e fazer funcionar é realmente incrível e a cada dia que passa sinto a vontade de aprender mais.
 
 - 🔭 Atualmente estou trabalhado em [App de receitas](https://github.com/tryber/sd-07-project-recipes-app/pull/379)
 

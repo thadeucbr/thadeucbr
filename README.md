@@ -26,4 +26,4 @@ Desde cedo, eu sempre fui apaixonado por tecnologia. Aos 13 anos comecei a monta
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thadeucbr&show_icons=true&theme=dracula&locale=en" alt="thadeucbr" /></p>
 
-<figure><embed src="https://wakatime.com/share/@d94fc5ec-2f02-44f2-a4b2-afb516748c79/b09ba286-ee57-4dfd-98d8-cf1625f1e3ae.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d94fc5ec-2f02-44f2-a4b2-afb516748c79/6ac9a122-2bf5-4506-9cbb-367b9de471fb.png" /></a>

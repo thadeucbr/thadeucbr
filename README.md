@@ -25,5 +25,4 @@ Desde cedo, eu sempre fui apaixonado por tecnologia. Aos 13 anos comecei a monta
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thadeucbr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thadeucbr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thadeucbr&show_icons=true&theme=dracula&locale=en" alt="thadeucbr" /></p>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d94fc5ec-2f02-44f2-a4b2-afb516748c79/6ac9a122-2bf5-4506-9cbb-367b9de471fb.png" /></a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeucbr)](https://github.com/anuraghazra/github-readme-stats)

@@ -8,7 +8,7 @@ Desde cedo, eu sempre fui apaixonado por tecnologia. Aos 13 anos comecei a monta
 
 - 🔭 Atualmente estou trabalhado em [Projeto Trybeer]()
 
-- 🌱 Estou estudando **Deploy em Heroku**
+- 🌱 Estou estudando **Arquitetura: SOLID e ORM**
 
 - 📫 Como me contatar **thadeucb@hotmail.com**
 

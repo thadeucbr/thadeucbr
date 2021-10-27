@@ -26,4 +26,5 @@ Desde cedo, eu sempre fui apaixonado por tecnologia. Aos 13 anos comecei a monta
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thadeucbr&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeucbr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeucbr)](https://github.com/anuraghazra/github-readme-stats)
+

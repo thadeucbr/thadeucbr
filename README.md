@@ -6,10 +6,6 @@ Sou Desenvolvedor Web.
 
 Desde cedo, eu sempre fui apaixonado por tecnologia. Aos 13 anos comecei a montar computadores e aos 15 já estava fazendo overclocks. Recentemente, descobri uma nova paixão que é programar. A sensação de conseguir materializar algo que estava apenas na imaginação e fazer funcionar é realmente incrível e a cada dia que passa sinto a vontade de aprender mais.
 
-- 🔭 Atualmente estou trabalhado em [aprender swift]()
-
-- 🌱 Estou estudando **swift**
-
 - 📫 Como me contatar **thadeucb@hotmail.com**
 
 <h3 align="left">Minhas redes:</h3>

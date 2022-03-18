@@ -24,3 +24,4 @@ Desde cedo, eu sempre fui apaixonado por tecnologia. Aos 13 anos comecei a monta
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeucbr)](https://github.com/anuraghazra/github-readme-stats)
 
+![openjs-foundation-javascriptlandia](https://user-images.githubusercontent.com/28105861/159073866-761bc846-ca2a-4c11-baf7-d413cd8e11aa.png)

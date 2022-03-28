@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/d94fc5ec-2f02-44f2-a4b2-afb516748c79.svg)](https://wakatime.com/@d94fc5ec-2f02-44f2-a4b2-afb516748c79)
 <h1 align="center">Olá 👋, Eu sou o Thadeu Castelo Branco Ramos</h1>
 
 Muito prazer, eu sou o Thadeu Castelo Branco. 

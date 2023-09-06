@@ -6,7 +6,6 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Atualmente aprimorando minhas habilidades em **TypeScript, GraphQL e Docker**.
 - 💼 Trabalhando como **Desenvolvedor de ChatBot na Take Blip**.
 - 🌐 Falo **Português** (nativo) e **Inglês** (avançado).
 

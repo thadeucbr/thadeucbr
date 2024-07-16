@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 💼 Desenvolvedor de ChatBot na [Take Blip](https://www.take.net/).
+- 💼 Desenvolvedor na **Proa.AI**
 - 🌐 Falo **Português** (nativo) e **Inglês** (avançado).
 
 ## 🛠️ Tecnologias e Ferramentas

@@ -48,7 +48,7 @@
 
 ## 📈 Principais Projetos
 
-- **[Projeto de Sincronização Google Calendar](https://github.com/thadeucbr/projeto-google-calendar)**: Sincronizei o Google Calendar com Google Sheets e 7PaceTimeTracker para otimizar o registro de horas trabalhadas.
+- **[Desafio BTG](https://github.com/thadeucbr/desafio_btg_microservicos)**: Desenvolvimento de uma api que se conecta a microserviços e um front-end bem simples.
 - **Plataforma de Denúncias Corporativas**: Desenvolvi uma plataforma interna para denúncias corporativas, utilizando **TypeScript** e **TypeORM**, focando em segurança e eficiência.
 
 ---

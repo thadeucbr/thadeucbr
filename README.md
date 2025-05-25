@@ -1,78 +1,84 @@
-<h1 align="center">Olá, sou Thadeu Castelo Branco Ramos! 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Thadeu – Inovador em Backend & IA</h1>
 <p align="center">
-  <em>Desenvolvedor Back-End apaixonado por tecnologia, focado em Node.js e sempre em busca de novos desafios.</em>
+  <em>Sou um Desenvolvedor Backend experiente, com sólida expertise em Node.js e TypeScript, apaixonado por arquitetar sistemas robustos, escaláveis e eficientes. Minha jornada atual inclui um mergulho profundo em Inteligência Artificial e Machine Learning através da minha Pós-Graduação na PUC Minas. Meu objetivo é integrar soluções inteligentes em aplicações de alto impacto, particularmente em áreas como IA conversacional, otimização de processos e na criação de experiências de usuário inovadoras e personalizadas.</em>
 </p>
 
-## 🚀 Sobre mim
+---
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 💼 Desenvolvedor na **Proa.AI**, trabalhando com a plataforma Blip para criar e otimizar Chatbots.
-- 💡 Experiência sólida com **Node.js, TypeScript, Docker**, e diversas ferramentas de desenvolvimento.
-- 🌐 Falo **Português** (nativo) e **Inglês** (avançado).
+## 🚀 Meu Foco  
+**Construindo Sistemas Backend Inteligentes & Soluções Potencializadas por IA**
 
-### Principais Experiências Profissionais
+Minhas competências centrais em desenvolvimento backend formam a espinha dorsal para a criação de aplicações de alta performance:
 
-- **Desenvolvedor de Chatbots na Proa.AI**: Reestruturei bots monolíticos, implementei validações e tracking de erros, otimizando performance e garantindo maior escalabilidade e manutenção.
-- **Desenvolvedor de Chatbots na Take Blip**: Atuei com clientes notáveis, desenvolvendo soluções inovadoras e migrando sistemas legados.
-- **Instrutor na Trybe**: Mentorei novos desenvolvedores em tecnologias como Node.js, TypeScript e Docker, ajudando-os a construir APIs do zero.
+- **Tecnologias Backend:** Node.js, JavaScript, TypeScript, design e implementação de APIs RESTful, Express.js  
+- **Bancos de Dados:** Modelagem e otimização em SQL (PostgreSQL, MySQL) e NoSQL (MongoDB)  
+- **Ferramentas & Metodologias:** TypeORM, Docker, Git, metodologias ágeis  
+
+### 🤖 Chatbots & IA Conversacional  
+Desenvolvi e otimizei chatbots para grandes clientes (Safra, Alelo), focando em PNL, reconhecimento de intenções e engajamento:
+
+- Defini e implementei novos padrões de desenvolvimento em Node.js (código limpo, manutenibilidade, escalabilidade)  
+- Otimizei modelos de IA/PNL e pipelines de dados para conversas mais eficientes  
+- Traduzi conceitos de IA em soluções tangíveis que geraram valor mensurável  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💡 Principais Conquistas & Projetos de Impacto
 
-### Linguagens de Programação
-![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks e Bibliotecas
-![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![ANGULARJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Bancos de Dados
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PG](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Ferramentas de Desenvolvimento
-![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![WEBSTORM](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+| Projeto / Contexto da Função                         | Contribuição / Ação Chave                                                             | Resultado / Impacto Quantificável                                                         | Competências Demonstradas                                                   |
+|------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Chatbots @ PROA.AI para Safra**                    | Liderança na definição e implementação de novos padrões de desenvolvimento Node.js    | +40% na velocidade de desenvolvimento; redução significativa de bugs                        | Node.js • Arquitetura • Otimização • Liderança Técnica • IA/PNL             |
+| **Automação de Registro de Horas @ Blip (Interno)**  | Idealização e desenvolvimento com Google Apps Script & APIs Google                   | –60% no tempo de apontamento de horas; onboarding otimizado                                 | Google Apps Script • APIs • Automação • Eficiência Operacional               |
+| **Chatbot @ Blip para Alelo**                        | Criação proativa de API mock em Node.js/Express para testes                           | Evitou atrasos no cronograma; garantiu continuidade do desenvolvimento                      | Node.js • Express.js • Resolução de Problemas • Proatividade • APIs         |
+| **Plataforma de Denúncias Corporativas (Freelance)** | Backend ponta a ponta (TypeScript, Node.js, TypeORM, SQL)                            | Entrega completa e funcional dentro do prazo, superando expectativas                       | TypeScript • Node.js • TypeORM • SQL • Autogestão • Full-Cycle Development   |
 
 ---
 
-## 📈 Principais Projetos
+## 🛠️ Minha Stack Tecnológica & Ferramentas
 
-- **[Desafio BTG](https://github.com/thadeucbr/desafio_btg_microservicos)**: Desenvolvimento de uma api que se conecta a microserviços e um front-end bem simples.
-- **Plataforma de Denúncias Corporativas**: Desenvolvi uma plataforma interna para denúncias corporativas, utilizando **TypeScript** e **TypeORM**, focando em segurança e eficiência.
+#### Backend  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeORM](https://img.shields.io/badge/TypeORM-FF5733?style=for-the-badge&logo=typeorm&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Bancos de Dados  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### IA/ML (Em evolução & Aprendizado)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### Plataformas de Chatbot  
+![BLiP](https://img.shields.io/badge/BLiP-76E497?style=for-the-badge&logo=take%20blip&logoColor=white)
+
+#### Cloud (Familiaridade/Aprendizado)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🌱 Atualmente Aprendendo & Explorando
+
+**Pós-Graduação em IA & ML** – PUC Minas (conclusão: mar/2026)  
+
+Minhas áreas de foco:
+
+- **PNL:** Aplicações avançadas além de chatbots  
+- **Modelos de ML:** Treinamento, avaliação e tuning  
+- **IA Generativa:** GPT-4, LLaMA e implementações práticas  
+- **Engenharia de Dados:** ETL e preparação de dados para ML  
+- **MLOps:** Deploy, monitoramento e pipelines com Docker  
+
+---
+
+## 📫 Vamos nos Conectar!
+
+[LinkedIn](https://www.linkedin.com/in/thadeucbr) • [Email](mailto:thadeucbr@gmail.com) • [HackerRank](https://www.hackerrank.com/thadeucbr) • [Blog](https://thadeucbr.github.io)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Thadeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thadeucbr&show_icons=true&theme=radical)
-
-[![Thadeu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeucbr)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🌐 Conecte-se comigo
-
-<a href="https://linkedin.com/in/thadeucbr" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="https://instagram.com/thadeucbr" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.hackerrank.com/thadeucbr" target="_blank">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
-</a>
-
-## 📧 Entre em contato
-
-Caso queira discutir oportunidades de trabalho ou projetos, envie um e-mail para **thadeucbr@gmail.com**.
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=thadeucbr)](https://github.com/anuraghazra/github-readme-stats)
